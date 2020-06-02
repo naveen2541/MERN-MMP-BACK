@@ -62,7 +62,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #e02525;
+  background-color:  #4A4A4A;
 }
 #header .title {
   margin: 0;
@@ -75,7 +75,8 @@ body {
 }
 #header .auth-options button {
   padding: 0 1rem;
-  background-color: #b91b1b;
+  background-color: #4A4A4A;
+  border-radius: 10px;
   color: #ffffff;
   font-size: 1.1rem;
 }
